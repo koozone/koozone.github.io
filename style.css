@@ -1,114 +1,59 @@
-:root {
-	--low-color: #b3e5fc;
-	--dark-color: #002f6c;
-	--normal-color: #01579b;
-	--light-color: #e6ffff;
-	--high-color: #fbc02d;
-}
-
+html,
 body {
 	margin: 0;
-	font-family: 'Stick No Bills', sans-serif;
+	padding: 0;
+	/* width: 100%;
+	height: 100%; */
 }
 
-.navi {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 10px 10px;
-	background: var(--normal-color);
-}
-.navi a {
-	text-decoration: none;
-	display: block;
-	color: var(--light-color);
-}
-.navi a > * {
-	vertical-align: middle;
-}
-.navi ul {
-	list-style: none;
+.wrapper {
+	/* display: grid;
+	grid-gap: 0;
+	grid-template-columns: 1fr;
+	grid-template-rows: 40px 1fr 40px;
+	grid-template-areas:
+		"header"
+		"section"
+		"footer"; */
+	height: 100vh;
+	overflow-y: auto;
 }
 
-.navi-logo a {
-	font-size: 24px;
-}
-.navi-logo i {
-	font-size: 60px;
-	color: var(--high-color);
+header {
+	/* grid-area: header; */
+	background-color: antiquewhite;
 }
 
-.navi-menu {
-	display: flex;
-	padding: 5px 0;
-	margin: 0;
-	font-family: 'Koh Santepheap', cursive;
-}
-.navi-menu a {
-	font-size: 16px;
-	padding: 5px 10px;
-}
-.navi-menu a:hover {
-	border-radius: 5px;
-	background: var(--low-color);
+footer {
+	/* grid-area: footer; */
+	background-color: aquamarine;
 }
 
-.navi-icon {
-	display: flex;
-	padding: 5px 0;
-	margin: 0;
-}
-.navi-icon a {
-	font-size: 20px;
-	padding: 5px 5px;
-	color: var(--high-color);
-}
-.navi-icon a:hover {
-	background: var(--low-color);
-	border-radius: 5px;
+section {
+	/* grid-area: section; */
+	background-color: gainsboro;
 }
 
-.navi-toggle {
-	display: none;
+.page-container {
+	/* padding: 10px; */
+	position: relative;
+}
+
+.page-group {
 	position: absolute;
-	right: 10px;
-	top: 20px;
-}
-.navi-toggle a {
-	font-size: 30px;
+	/* width: 50%; */
+	width: 100%;
+	height: 100%;
 }
 
-@media screen and (max-width: 550px) {
-	.navi {
-		flex-direction: column;
-		align-items: flex-start;
-	}
+.page-content {
+	height: 100%;
+}
 
-	.navi-menu {
-		display: none;
-		flex-direction: column;
-		align-items: center;
-		width: 100%;
-	}
-	.navi-menu li {
-		width: 100%;
-	}
-	.navi-menu a {
-		text-align: center;
-	}
-
-	.navi-icon {
-		display: none;
-		justify-content: center;
-		width: 100%;
-	}
-
-	.navi-toggle {
-		display: block;
-	}
-
-	.navi-icon.active,
-	.navi-menu.active {
-		display: flex;
-	}
+div[data-style="list-search"] {
+	width: 100%;
+	/* height: 300px; */
+	max-height: 100%;
+	border: 2px solid #999;
+	border-radius: 5px;
 }

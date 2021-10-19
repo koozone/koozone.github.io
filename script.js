@@ -6,24 +6,49 @@ requirejs.config({
 		text: 'require/plugins/text',
 		common: '../common',
 		module: '../module',
+		minor: '../minor',
 	},
 });
 
 var kz;
 
 requirejs([
+	'jquery',
 	'common/kz',
-], function(kzMc) {
+	'minor/frameWork/data',
+	'minor/frameWork/core',
+	'minor/element/app/main',
+	'module/seoulDbNew/app/main',
+	'module/kakaoMapNew/app/main',
+], function($, kzMc, data, core, element, seoulDb, kakaoMap) {
 	kz = kzMc;
+	kz.data = data;
+	kz.core = core;
+	kz.element = element.init(kz);
+	kz.seoulDb = new seoulDb();
+	kz.kakaoMap = kakaoMap;
 
 	kz.init(kz);
+	kz.data.init(kz);
+	kz.core.init(kz);
+	kz.seoulDb.init(kz);
+	// kz.kakaoMap.init(kz);
 
-	const toggle_mc = document.querySelector('.navi-toggle');
-	const menu_mc = document.querySelector('.navi-menu');
-	const icon_mc = document.querySelector('.navi-icon');
-	
-	toggle_mc.addEventListener('click', () => {
-		menu_mc.classList.toggle('active');
-		icon_mc.classList.toggle('active');
+
+
+
+	$('[name=prev-button').on('click', (event) => {
+		kz.core.prevPage();
 	});
+	$('[name=next-button').on('click', (event) => {
+		if (kz.data.pageSave.now == 'page02') {
+			kz.data.clientData['parkCheck'] = kz.element.elValue('park-button');
+		}
+
+		kz.core.nextPage();
+
+		kz.core.nextPage();
+	});
+
+	kz.core.showPage('page01');
 });
