@@ -12,7 +12,7 @@ requirejs.config({
 var kz;
 
 requirejs([
-	'common/kz',
+	'common/kooz',
 ], function(kzMc) {
 	kz = kzMc;
 
