@@ -54,7 +54,7 @@ define([
 				disc: '',
 				name: 'default',
 				param: {
-					HOST: 'https://openAPI.seoul.go.kr:8088',	// 주소
+					HOST: 'http://openAPI.seoul.go.kr:8088',	// 주소
 					KEY: '576a6b47416b6f6f37384f554a6459',		// 인증키 (OpenAPI 에서 발급된 인증키)
 					TYPE: 'json',								// 요청파일타입 (xml : xml, xml파일 : xmlf, 엑셀파일 : xls, json파일 : json)
 					SERVICE: '',								// 서비스명
