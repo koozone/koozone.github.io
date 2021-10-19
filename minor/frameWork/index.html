@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>FrameWork</title>
+
+	<link href='./style.css' rel='stylesheet'>
+	<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=e2d5dd307e1edded67827eb281e1712b&libraries=services,clusterer"></script>
+	<script data-main="script" src="../../vendor/require/2.3.6/require.min.js"></script>
+</head>
+<body>
+	<form onsubmit="return false">
+	<div class="wrapper">
+		<header>
+			header
+			<label data-style="button-1">
+				<input type="button" name="prev-button">
+				<i class="bx bx-extension"></i>
+				<span>prev</span>
+			</label>
+			<label data-style="button-1">
+				<input type="button" name="next-button">
+				<i class="bx bx-extension"></i>
+				<span>next</span>
+			</label>
+		</header>
+		<section class="page-container"></section>
+	</div>
+	</form>
+</body>
+</html>

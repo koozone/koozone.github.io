@@ -1,0 +1,180 @@
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-size: 12px;
+	overflow: hidden;
+	font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrap {
+	position: relative;
+	/* padding: 10px; */
+	/* margin: 10px; */
+	height: calc(100% - 0px);
+}
+
+.frame {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.frame.top {
+	height: 50px;
+	background-color: cadetblue;
+}
+.frame.content {
+	overflow: auto;
+	top: 0;
+	height: calc(100% - 0px);
+	background-color: darkgray;
+}
+.frame.control {
+	overflow: auto;
+	height: calc(0% - 0px);
+	bottom: 0;
+	background-color: blanchedalmond;
+}
+.frame.bottom {
+	height: 50px;
+	bottom: 50px;
+	transform: translateY(100%);
+	background-color: cornflowerblue;
+}
+
+
+
+
+pre code.hljs {
+	tab-size: 4;
+	border-radius: 5px;
+	position: relative;
+}
+pre > code.hljs::after {
+	font-family: Helvetica;
+}
+pre > code.hljs[data-lang~=javascript]::after {
+	background: #f6dd3b;
+	color: #34495e;
+}
+pre > code.hljs[data-lang~=html]::after {
+	background: #E44F26;
+	color: #fff;
+}
+pre>code.hljs::after {
+	content: attr(data-lang);
+	text-transform: uppercase;
+	position: absolute;
+	top: 0;
+	right: 0;
+	color: #fff;
+	text-align: right;
+	font-size: 10px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	background: #9b9b9b;
+	padding: 2px 7px;
+	line-height: 15px;
+	height: 15px;
+	border-radius: 0 0 0 2px;
+}
+
+a {
+	text-decoration: none;
+}
+
+em[class*='type-'] {
+	padding: 2px 5px;
+	font-style: normal;
+	background-color: white;
+	border: 1px solid orange;
+	border-radius: 3px;
+}
+
+/* em.type-1 {
+	color: red;
+	border: 1px solid orange;
+	background-color: antiquewhite;
+} */
+em.type-1 {
+	color: orangered;
+	border: 1px solid lightgray;
+	background-color: floralwhite;
+}
+em.type-2 {
+	border: 1px solid orangered;
+	background-color: orange;
+}
+
+
+
+article {
+	margin: 20px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 5px;
+}
+
+article > ul {
+	line-height: 24px;
+	padding-left: 20px;
+}
+
+/* .element > label.label:first-child {
+	color: #000;
+	font-size: 2rem;
+	background-color: lightblue;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+	border-radius: 5px;
+} */
+
+.example::before {
+	/* content: "예제>\a"; */
+	white-space: pre;
+	color: #333;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+
+label.radio.type-1 {
+	/* height: 80px; */
+	margin-top: -6px;
+	border: transparent;
+	background: transparent;
+}
+label.radio.type-1[checked] {
+	border: transparent;
+	background: transparent;
+}
+label.radio.type-1 > *:not(input[type="radio"]) {
+	display: block;
+}
+label.radio.type-1 > span {
+	margin-top: 10px;
+}
+
+
+label.list {
+	border-radius: 5px;
+	border: 2px solid #999;
+	background-color: antiquewhite;
+}
+label.radio.type-2 {
+	border-bottom: 2px solid #999;
+}
+label.radio.type-2[checked] {
+	background-color: orange;
+}
+label.radio.type-2:last-child {
+	border-bottom: 0;
+}
