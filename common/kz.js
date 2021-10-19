@@ -3,7 +3,7 @@ define([
 	'common/util',
 ], function(module, util) {
 	var kz;
-
+	
 	return {
 		init: function(kzMc) {
 			kz = kzMc;
