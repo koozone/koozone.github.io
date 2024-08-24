@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Main
+description: A short description of your site's purpose
 ---
 
 # Welcome to Haru Memo! KO
