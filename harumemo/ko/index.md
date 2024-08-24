@@ -4,8 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-[Support page](./support.html).
+[Link to another page](./another-page.html).<br>
+[Support page](./support.html).<br>
+[CONTRIBUTING page](./CONTRIBUTING.html).<br>
+[CODE_OF_CONDUCT page](./CODE_OF_CONDUCT.html).
 
 There should be whitespace between paragraphs.
 
