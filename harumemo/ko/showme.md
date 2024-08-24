@@ -4,7 +4,7 @@
 
 _Modernist is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/modernist), or even [use it today](#usage)._
 
-![Thumbnail of Modernist](/assets/images/harumemo/showme_thumbnail.png)
+![Thumbnail of Modernist](../images/showme_thumbnail.png)
 
 ## Usage
 
