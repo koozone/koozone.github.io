@@ -1,126 +1,33 @@
 ---
 layout: default
+title: Main
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to Haru Memo! KO
 
-[Link to another page](./another-page.html).<br>
-[Support page](./support.html).<br>
-[CONTRIBUTING page](./buting.html).<br>
-[CODE_OF_CONDUCT page](./code.html).<br>
-[readme page](./showme.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-	dateformat.i18n = require('./lang/' + l);
-	return true;
-};
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
--   This is an unordered list following a header.
--   This is an unordered list following a header.
--   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+**Haru Memo**는 간편하게 메모를 기록하고 관리할 수 있는 강력한 도구입니다. 원하는 날짜에 메모를 기록하고, 태그, 알림, 카운터 등 다양한 기능으로 체계적인 관리를 할 수 있습니다.
 
 ---
 
-### Here is an unordered list:
+## 주요 기능
 
--   Item foo
--   Item bar
--   Item baz
--   Item zip
+-   **직관적인 메모 관리**: 언제든지 메모를 작성하고, 간편하게 편집하세요.
+-   **유연한 태그 적용**: 메모에 태그를 추가하여 쉽게 분류하고 검색하세요.
+-   **유용한 카운터 기능**: 목표나 반복 이벤트를 손쉽게 추적할 수 있습니다.
+-   **알림 설정**: 중요한 일정을 잊지 않도록 알림을 설정하세요.
+-   **비밀 메모 잠금**: 중요한 정보는 안전하게 보호할 수 있습니다.
+-   **체크리스트 기능**: 할 일을 관리하고 목표를 달성하세요.
+-   **날짜별 사진 보기**: 날짜별로 사진을 모아서 관리하세요.
+-   **캘린더 보기**: 모든 일정을 한눈에 확인하고, 날짜별로 메모를 관리할 수 있습니다.
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### 더 알아보기
 
-### And a nested list:
+자세한 기능 소개와 사용 방법은 [여기](#)에서 확인하세요.
 
--   level 1 item
-    -   level 2 item
-    -   level 2 item
-        -   level 3 item
-        -   level 3 item
--   level 1 item
-    -   level 2 item
-    -   level 2 item
-    -   level 2 item
--   level 1 item
-    -   level 2 item
-    -   level 2 item
--   level 1 item
+For frequently asked questions, visit the [FAQ page](faq).
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+© 2024 Haru Memo. All rights reserved.
