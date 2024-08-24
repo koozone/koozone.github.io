@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Haru Memo
+title: Main
 ---
 
 # Welcome to Haru Memo! KO
@@ -25,6 +25,8 @@ title: Haru Memo
 ### 더 알아보기
 
 자세한 기능 소개와 사용 방법은 [여기](#)에서 확인하세요.
+
+For frequently asked questions, visit the [FAQ page](faq).
 
 ---
 

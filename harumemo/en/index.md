@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Haru Memo
+title: Main
 ---
 
 # Welcome to Haru Memo! EN
