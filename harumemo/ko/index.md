@@ -3,7 +3,7 @@ layout: default
 title: Main
 ---
 
-# Welcome to Haru Memo!
+## 환영합니다!
 
 쉽고 간편하게 나만의 메모를 기록하고 관리하세요!
 
@@ -42,15 +42,15 @@ title: Main
 
 ---
 
+## 마치며
+
 이제 더 이상 중요한 메모와 일정을 잊지 마세요. 필요한 모든 메모 기능을 이 앱에서 만나보세요!
 
 ---
 
 ### 더 알아보기
 
-자세한 기능 소개와 사용 방법은 [여기](#)에서 확인하세요.
-
-For frequently asked questions, visit the [FAQ page](faq).
+자세한 기능 소개와 사용 방법은 [여기](support)에서 확인하세요.
 
 ---
 
