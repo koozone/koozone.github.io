@@ -2,15 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be <b>bold</b>, <i>italic</i>, or <s>strikethrough</s> <u>underline</u>.
 
-[Link to another page](./another-page.html).<br>
-[Support page](./support.html).<br>
-[CONTRIBUTING page](./buting.html).<br>
-[CODE_OF_CONDUCT page](./code.html).<br>
-[readme page](./showme.html).
+[Link to another page](./another-page.html).  
+[Support page](./support.html).  
+[CONTRIBUTING page](./buting.html).  
+[CODE_OF_CONDUCT page](./code.html).  
+[readme page](./showme.html).  
+[동일파일 내 문단 이동](#here-is-an-unordered-list)
+
+![image](https://github.com/user-attachments/assets/b7b818f6-d6dc-480b-b752-632fa85fadfd)
 
 There should be whitespace between paragraphs.
+
+## asdfasdfsadf
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -62,6 +67,14 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+<br>
+
+$$f(x)= if x < x_{min} : (x/x_{min})^a$$  
+$$otherwise : 0$$  
+$$P(w)=U(x/2)(7/5)/Z$$  
+$$p_{\theta}(x) = \int p_{\theta}(2z)p_{\theta}(y\mid k)dz$$  
+$$x = argmax_k((x_t-x_u+x_v)^T*x_m)/(||x_b-x_k+x_l||)$$
+
 ### There's a horizontal rule below this.
 
 ---
@@ -103,6 +116,8 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+[<img src="https://images.unsplash.com/photo-1724368202141-ef6f3522f50f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200">](http://naver.com, 'Naver')
 
 ### Definition lists can be used with HTML syntax.
 
