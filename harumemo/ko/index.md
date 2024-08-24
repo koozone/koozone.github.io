@@ -15,9 +15,11 @@ title: Main
 
 1. **직관적인 메모 관리**  
    언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
+   ![image](https://github.com/user-attachments/assets/b7b818f6-d6dc-480b-b752-632fa85fadfd)
 
 1. **유연한 태그 적용**  
    메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
+   ![image](https://images.unsplash.com/photo-1724368202141-ef6f3522f50f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 1. **유용한 카운터 기능**  
    메모에 카운터를 적용하여, 특정 목표나 반복적인 이벤트를 쉽게 추적할 수 있습니다.
