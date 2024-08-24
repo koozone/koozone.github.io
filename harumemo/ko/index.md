@@ -8,6 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Support page](./support.html).<br>
 [CONTRIBUTING page](./buting.html).<br>
 [CODE_OF_CONDUCT page](./code.html).
+[readme page](./readme.html).
 
 There should be whitespace between paragraphs.
 
