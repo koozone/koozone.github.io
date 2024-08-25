@@ -46,6 +46,17 @@ strong {
 	font-weight: 700;
 }
 
+li {
+	p {
+		img {
+			width: 95%;
+			max-width: 500px;
+			border-radius: 10px;
+			border: 2px solid rgba(0, 0, 0, 0.1);
+		}
+	}
+}
+
 header {
 	border-radius: 8px 8px 0 0;
 	background: #c6eafa;
