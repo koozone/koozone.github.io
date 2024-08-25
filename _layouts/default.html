@@ -19,32 +19,18 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-		<img class='logo' src="https://github.com/user-attachments/assets/c41d8c86-1c13-42e3-8360-b321255a9930" alt="Haru Memo"/>
-
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <ul>
-			{% if site.show_downloads %}
-			  <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-			  <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-			{% endif %}
-			  <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-		</ul> -->
-		<ul>
-			<li>
-				<a href="https://itunes.apple.com/app/apple-store/id520502858?pt=420029&ct=mytuner-radio.com%20mobile&mt=8">
-					<img src="https://github.com/user-attachments/assets/e420372d-53a2-4199-8e0d-101daea99132" alt="App Store" />
-				</a>
-			</li>
-			<li style="display: none;">
-				<a href="https://play.google.com/store/apps/details?id=com.appgeneration.itunerfree&referrer=utm_source%3Dmytuner-radio.com%26utm_medium%3Dwebsite%26utm_campaign%3Dmobile%2520footer">
-					<img src="https://github.com/user-attachments/assets/8d523791-325f-44a8-ac5d-51cf5c4303f4" alt="Google Play" />
-				</a>
-			</li>
-		</ul>
+        {% if site.show_downloads %}
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+        {% endif %}
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
       </header>
       <section>
 
@@ -53,7 +39,10 @@
       </section>
     </div>
     <footer>
-      <p style="width: 100%; text-align: center;">© 2024 KOOZone. All rights reserved.</p>
+    {% if site.github.is_project_page %}
+      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    {% endif %}
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
