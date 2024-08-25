@@ -46,17 +46,6 @@ strong {
 	font-weight: 700;
 }
 
-li {
-	p {
-		img {
-			width: 95%;
-			max-width: 500px;
-			border-radius: 10px;
-			border: 2px solid rgba(0, 0, 0, 0.05);
-		}
-	}
-}
-
 header {
 	border-radius: 8px 8px 0 0;
 	background: #c6eafa;
@@ -167,6 +156,14 @@ header {
 			}
 		}
 	}
+
+	img.logo {
+		width: 46px;
+		margin-right: 10px;
+		border-radius: 10px;
+		border: 1px solid rgba(0, 0, 0, 0.05);
+		float: left;
+	}
 }
 
 section {
@@ -231,6 +228,17 @@ blockquote {
 
 img {
 	max-width: 100%;
+}
+
+li {
+	p {
+		img {
+			width: 95%;
+			max-width: 500px;
+			border-radius: 10px;
+			border: 2px solid rgba(0, 0, 0, 0.05);
+		}
+	}
 }
 
 code,
