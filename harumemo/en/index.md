@@ -16,12 +16,12 @@ Easily record and manage your personal notes!
 1. **Intuitive Note Management**  
    Create and edit notes anytime, managing your day with ease.
 
-      <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px">
+       <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px">
 
 2. **Flexible Tagging**  
    Add tags to your notes to categorize and search them easily.
 
-      <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px">
+       <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px">
 
 3. **Useful Counter Feature**  
    Apply counters to notes to track specific goals or recurring events.
@@ -38,7 +38,7 @@ Easily record and manage your personal notes!
 7. **Date-Based Photo Viewing**  
    View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
 
-    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px">
+     <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px">
 
 8. **Convenient Schedule Viewing**  
    View all your schedules at a glance in the calendar and manage notes by date.
@@ -53,7 +53,3 @@ Easily record and manage your personal notes!
 ### 더 알아보기
 
 자세한 기능 소개와 사용 방법은 [여기](support)에서 확인하세요.
-
----
-
-© 2024 Haru Memo. All rights reserved.
