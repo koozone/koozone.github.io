@@ -16,7 +16,7 @@ title: Main
 1.  **직관적인 메모 관리**  
     언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px; border: 1px solid rgba(0, 0, 0, 0.3);">
 
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
