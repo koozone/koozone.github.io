@@ -16,12 +16,12 @@ Easily record and manage your personal notes!
 1. **Intuitive Note Management**  
    Create and edit notes anytime, managing your day with ease.
 
-     <img src="https://github.com/user-attachments/assets/b7b818f6-d6dc-480b-b752-632fa85fadfd" width="90%">
+      <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px">
 
 2. **Flexible Tagging**  
    Add tags to your notes to categorize and search them easily.
 
-     <img src="https://images.unsplash.com/photo-1724368202141-ef6f3522f50f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="90%">
+      <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px">
 
 3. **Useful Counter Feature**  
    Apply counters to notes to track specific goals or recurring events.
@@ -38,17 +38,15 @@ Easily record and manage your personal notes!
 7. **Date-Based Photo Viewing**  
    View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
 
+    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px">
+
 8. **Convenient Schedule Viewing**  
    View all your schedules at a glance in the calendar and manage notes by date.
 
 9. **Quick Search Function**  
    Easily search for notes using keywords to quickly find the information you need.
 
----
-
-## 마치며
-
-Never forget important notes and schedules again. Find all the note-taking features you need in this app!
+> Never forget important notes and schedules again. Find all the note-taking features you need in **Haru Memo**!
 
 ---
 
