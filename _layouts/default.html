@@ -22,19 +22,23 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <!-- {% endif %} -->
-        <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p> -->
+        <!-- {% endif %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <ul>
-        {% if site.show_downloads %}
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        <!-- {% endif %} -->
-          <!-- <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li> -->
-          <!-- <li><a href="{{ site.github.repository_url }}">GET IT ON <strong>Google Play</strong></a></li> -->
-          <!-- <li><a href="{{ site.github.repository_url }}">Download on the <strong>App Store</strong></a></li> -->
-          <li><img src="https://github.com/user-attachments/assets/270a11a3-be57-49f2-9d04-d01f8400ccb8" alt="Google Play" role="img" /></li>
-          <li><img src="https://github.com/user-attachments/assets/f08b72f4-511a-471a-9e88-0dfddef0a32a" alt="App Store" role="img" /></li>
-        </ul>
+			{% if site.show_downloads %}
+			  <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+			  <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+			{% endif %}
+			  <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+		</ul> -->
+		<ul>
+			<li><img src="https://github.com/user-attachments/assets/270a11a3-be57-49f2-9d04-d01f8400ccb8" alt="Google Play" role="img" /></li>
+			<li>
+				<a href="https://itunes.apple.com/app/apple-store/id520502858?pt=420029&ct=mytuner-radio.com%20mobile&mt=8">
+					<img src="https://github.com/user-attachments/assets/f08b72f4-511a-471a-9e88-0dfddef0a32a" alt="App Store" role="img" />
+				</a>
+			</li>
+		</ul>
       </header>
       <section>
 
@@ -43,10 +47,6 @@
       </section>
     </div>
     <footer>
-    <!-- {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p> -->
       <p style="width: 100%; text-align: center;">© 2024 KOOZone. All rights reserved.</p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
