@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Main
+style: 'width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);'
 ---
 
 ## 환영합니다!
@@ -11,17 +12,20 @@ title: Main
 
 ---
 
+{{title}}  
+{{style}}
+
 ## 주요 기능
 
 1.  **직관적인 메모 관리**  
     언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style={{style}}>
 
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
 
-    <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+    <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
 
 3.  **유용한 카운터 기능**  
     메모에 카운터를 적용하여, 특정 목표나 반복적인 이벤트를 쉽게 추적할 수 있습니다.
@@ -38,7 +42,7 @@ title: Main
 7.  **날짜별 사진 보기**  
     추억이 담긴 사진들을 썸네일로 확인하고 해당 날짜에 찍은 사진을 모아 볼 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
 
 8.  **편리한 일정 보기**  
     캘린더에서 모든 일정을 한눈에 확인하고, 날짜별로 메모를 관리할 수 있습니다.
