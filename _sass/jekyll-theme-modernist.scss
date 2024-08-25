@@ -99,11 +99,10 @@ header {
 		top: 20px;
 		height: 38px;
 		padding: 1px 0;
-		background: #5198df;
-		background: linear-gradient(#77b9fb, #3782cd);
+		// background: #5198df;
+		// background: linear-gradient(#77b9fb, #3782cd);
 		border-radius: 5px;
-		box-shadow: inset rgba(#fff, 0.45) 0 1px 0,
-			inset rgba(#000, 0.2) 0 -1px 0;
+		// box-shadow: inset rgba(#fff, 0.45) 0 1px 0, inset rgba(#000, 0.2) 0 -1px 0;
 		width: auto;
 
 		&:before {
@@ -132,8 +131,9 @@ header {
 
 		li + li {
 			width: 130px;
+			margin-left: 5px;
 			// border-left: 1px solid #8bbef3;
-			border-right: none;
+			// border-right: none;
 		}
 
 		a {

@@ -13,38 +13,38 @@ Easily record and manage your personal notes!
 
 ## Key Features
 
-1. **Intuitive Note Management**  
-   Create and edit notes anytime, managing your day with ease.
+1.  **Intuitive Note Management**  
+    Create and edit notes anytime, managing your day with ease.
 
-       <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px">
+    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175" style="width: 95%; max-width: 500px; border-radius: 10px; border: 2px solid rgba(0, 0, 0, 0.1);">
 
-2. **Flexible Tagging**  
-   Add tags to your notes to categorize and search them easily.
+2.  **Flexible Tagging**  
+    Add tags to your notes to categorize and search them easily.
 
-       <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px">
+    <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f" style="width: 95%; max-width: 500px; border-radius: 10px; border: 2px solid rgba(0, 0, 0, 0.1);">
 
-3. **Useful Counter Feature**  
-   Apply counters to notes to track specific goals or recurring events.
+3.  **Useful Counter Feature**  
+    Apply counters to notes to track specific goals or recurring events.
 
-4. **Reliable Notifications**  
-   Set notifications for individual notes to ensure you don’t forget important schedules.
+4.  **Reliable Notifications**  
+    Set notifications for individual notes to ensure you don’t forget important schedules.
 
-5. **Secure Secret Notes**  
-   Protect important information with a password for added security.
+5.  **Secure Secret Notes**  
+    Protect important information with a password for added security.
 
-6. **Real-Time Checklists**  
-   Create checklists to manage tasks and track completed items to achieve your goals.
+6.  **Real-Time Checklists**  
+    Create checklists to manage tasks and track completed items to achieve your goals.
 
-7. **Date-Based Photo Viewing**  
-   View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
+7.  **Date-Based Photo Viewing**  
+    View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
 
-     <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px">
+    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d" style="width: 95%; max-width: 500px; border-radius: 10px; border: 2px solid rgba(0, 0, 0, 0.1);">
 
-8. **Convenient Schedule Viewing**  
-   View all your schedules at a glance in the calendar and manage notes by date.
+8.  **Convenient Schedule Viewing**  
+    View all your schedules at a glance in the calendar and manage notes by date.
 
-9. **Quick Search Function**  
-   Easily search for notes using keywords to quickly find the information you need.
+9.  **Quick Search Function**  
+    Easily search for notes using keywords to quickly find the information you need.
 
 > Never forget important notes and schedules again. Find all the note-taking features you need in **Haru Memo**!
 
