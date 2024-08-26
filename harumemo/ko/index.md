@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main
+title: Index
 ---
 
 ## 환영합니다!

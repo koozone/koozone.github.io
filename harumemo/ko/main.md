@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Main
 ---
 
 Text can be <b>bold</b>, <i>italic</i>, or <s>strikethrough</s> <u>underline</u>.

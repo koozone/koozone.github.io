@@ -1,3 +1,8 @@
+---
+layout: default
+title: Support
+---
+
 ## Where to get help
 
 If you think you've found a bug in the Modernist theme, please [check the existing issues](https://github.com/pages-themes/modernist/issues), and if no one has reported the problem, [open a new issue](https://github.com/pages-themes/modernist/issues/new).
