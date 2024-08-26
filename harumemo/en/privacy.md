@@ -1,4 +1,4 @@
-**Privacy Policy**
+## Privacy Policy
 
 This privacy policy applies to the Haru Memo app (hereby referred to as "Application") for mobile devices that was created by [Developer/Company name] (hereby referred to as "Service Provider") as [open source/free/freemium/ad-supported/commercial] service. This service is intended for use "AS IS".
 
