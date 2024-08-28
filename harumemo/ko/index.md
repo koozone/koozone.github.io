@@ -16,15 +16,17 @@ title: Index
 1.  **직관적인 메모 관리**  
     언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/a578344a-28d7-4091-8b5e-d201a58a9175">
+    <img src="https://github.com/user-attachments/assets/86c54d59-ef75-437f-a93c-4fc67bc184c5">
 
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
 
-    <img src="https://github.com/user-attachments/assets/3b68c8ba-f635-45e9-b7d2-7bfde8b3a80f">
+    <img src="https://github.com/user-attachments/assets/0cc07d97-ace0-4d2b-8c4f-7a6398c42248">
 
 3.  **유용한 카운터 기능**  
     메모에 카운터를 적용하여, 특정 목표나 반복적인 이벤트를 쉽게 추적할 수 있습니다.
+
+    <img src="https://github.com/user-attachments/assets/795c67b3-b940-4d95-8af3-515eb255450f">
 
 4.  **든든한 알림 설정**  
     개별 메모에 알림을 설정해 중요한 일정을 잊지 않도록 도와줍니다.
