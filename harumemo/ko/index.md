@@ -21,12 +21,12 @@ title: Index
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
 
-    <img src="https://github.com/user-attachments/assets/0cc07d97-ace0-4d2b-8c4f-7a6398c42248">
+    <img src="https://github.com/user-attachments/assets/66674533-a57b-415d-b54a-0b74a8bfb153">
 
 3.  **유용한 카운터 기능**  
     메모에 카운터를 적용하여, 특정 목표나 반복적인 이벤트를 쉽게 추적할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/795c67b3-b940-4d95-8af3-515eb255450f">
+    <img src="https://github.com/user-attachments/assets/dddad9f6-a9e6-4e8c-ba5d-e162bb5af6b3">
 
 4.  **든든한 알림 설정**  
     개별 메모에 알림을 설정해 중요한 일정을 잊지 않도록 도와줍니다.
