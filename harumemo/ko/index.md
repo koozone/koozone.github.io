@@ -21,32 +21,42 @@ title: Index
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
 
-    <img src="https://github.com/user-attachments/assets/66674533-a57b-415d-b54a-0b74a8bfb153">
+    <img src="https://github.com/user-attachments/assets/e00c9707-fbe8-43e2-8d09-36c1f3897e88">
 
 3.  **유용한 카운터 기능**  
     메모에 카운터를 적용하여, 특정 목표나 반복적인 이벤트를 쉽게 추적할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/dddad9f6-a9e6-4e8c-ba5d-e162bb5af6b3">
+    <img src="https://github.com/user-attachments/assets/c2c666f2-d995-421f-b9d6-f3a15166def3">
 
 4.  **든든한 알림 설정**  
     개별 메모에 알림을 설정해 중요한 일정을 잊지 않도록 도와줍니다.
 
+    <img src="https://github.com/user-attachments/assets/2a543920-5604-467e-9b31-26f717e651f3">
+
 5.  **안전한 비밀 메모**  
     나만의 정보는 비밀번호로 잠금 처리해 안전하게 보호할 수 있습니다.
+
+    <img src="https://github.com/user-attachments/assets/15216c9b-5e3e-40b3-9e60-8ece1157c8b7">
 
 6.  **실시간 체크 메모**  
     할 일을 관리하는 체크리스트를 만들어, 완료된 항목을 체크하면서 목표를 달성하세요.
 
+    <img src="https://github.com/user-attachments/assets/65cd9746-ca0e-46c9-bad3-f6f92607587b">
+
 7.  **날짜별 사진 보기**  
     추억이 담긴 사진들을 썸네일로 확인하고 해당 날짜에 찍은 사진을 모아 볼 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/15318b27-63f6-4b90-8dd9-20fb6441b84d">
+    <img src="https://github.com/user-attachments/assets/4524c780-e636-42e6-80a7-6da15af9df07">
 
 8.  **편리한 일정 보기**  
     캘린더에서 모든 일정을 한눈에 확인하고, 날짜별로 메모를 관리할 수 있습니다.
 
+    <img src="https://github.com/user-attachments/assets/d81c89a5-6163-40c7-afe9-0042966969c8">
+
 9.  **빠른 검색 기능**  
     키워드로 메모를 쉽게 검색하여 원하는 정보를 빠르게 찾아보세요.
+
+    <img src="https://github.com/user-attachments/assets/5854c1a0-566a-4e40-a69f-80484fdebc9a">
 
 > 이제 더 이상 중요한 메모와 일정을 잊지 마세요. 필요한 모든 메모 기능을 **하루 메모**에서 만나보세요!
 
