@@ -16,7 +16,7 @@ title: Index
 1.  **직관적인 메모 관리**  
     언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
 
-    <img src="https://github.com/user-attachments/assets/86c54d59-ef75-437f-a93c-4fc67bc184c5">
+    <img src="https://github.com/user-attachments/assets/bca4b6d6-2db1-44a1-ae89-c4d4fbf02b38">
 
 2.  **유연한 태그 적용**  
     메모에 태그를 추가하여 카테고리별로 메모를 분류하고 쉽게 검색하세요.
