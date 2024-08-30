@@ -43,18 +43,18 @@ Easily record and manage your personal notes!
 
     <img src="../images/ko/index_6.png">
 
-7.  **Date-Based Photo Viewing**  
-    View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
+7.  **Quick Search Function**  
+    Easily search for notes using keywords to quickly find the information you need.
 
     <img src="../images/ko/index_7.png">
 
-8.  **Convenient Schedule Viewing**  
-    View all your schedules at a glance in the calendar and manage notes by date.
+8.  **Date-Based Photo Viewing**  
+    View photos taken on specific dates as thumbnails and collect all photos taken on a given date.
 
     <img src="../images/ko/index_8.png">
 
-9.  **Quick Search Function**  
-    Easily search for notes using keywords to quickly find the information you need.
+9.  **Convenient Schedule Viewing**  
+    View all your schedules at a glance in the calendar and manage notes by date.
 
     <img src="../images/ko/index_9.png">
 
