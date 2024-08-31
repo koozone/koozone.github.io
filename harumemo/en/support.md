@@ -6,7 +6,9 @@ title: Support
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.4.95/css/materialdesignicons.min.css">
 <link rel="stylesheet" href="https://unpkg.com/@icon/octicons/octicons.css">
 
-## Quick Tips
+## Quick Tip
+
+---
 
 ### Q. How do I jump to today's date?
 
