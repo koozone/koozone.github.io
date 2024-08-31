@@ -39,7 +39,7 @@ title: Support
 -   <i class="mdi mdi-credit-card-plus-outline
       "></i> : 새노트 화면 열기
 
-### Q. 메모를 여러 개 만들었는데, 그 중에서 가장 오래된 날짜를 찾을 수 있을까요?
+### Q. 메모를 여러 개 만들었는데, 그 중에서 가장 오래된 날짜를 찾을 수 있나요?
 
 -   '일/요일' 표시 옆의 <i class="mdi mdi-chevron-left
       "></i>(또는 <i class="mdi mdi-chevron-right
@@ -57,7 +57,7 @@ title: Support
 2. <i class="mdi mdi-lock-open-variant-outline"></i> 버튼을 길게 터치하면 비밀번호를 초기화합니다.
 3. <i class="mdi mdi-key-chain"></i> 버튼을 눌러서 새로운 비밀번호를 생성하면 됩니다.
 
-### Q. 노트 복사후에 바로 붙여넣기를 하고 싶습니다.
+### Q. 노트 복사후에 바로 붙여넣기를 할 수 있나요?
 
 1. 노트를 길게 터치하여 복사 메뉴(<i class="mdi mdi-credit-card-multiple-outline
    "></i>)를 선택하세요.
