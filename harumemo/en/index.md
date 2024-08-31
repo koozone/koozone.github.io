@@ -64,4 +64,4 @@ Easily record and manage your personal notes!
 
 ### Quick Tip
 
-To learn more about the basic features, please check [here](support)."
+To learn more about the basic features, please check [here](support).

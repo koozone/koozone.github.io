@@ -3,12 +3,16 @@ layout: default
 title: Support
 ---
 
-## Where to get help
+<link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.4.95/css/materialdesignicons.min.css">
 
-If you think you've found a bug in the Modernist theme, please [check the existing issues](https://github.com/pages-themes/modernist/issues), and if no one has reported the problem, [open a new issue](https://github.com/pages-themes/modernist/issues/new).
+## 간편 팁
 
-If you have a general question about the theme, how to implement it, or how to customize it for your site you have two options:
+### Q. 비밀번호 초기화는 어떻게 하나요?
 
-1. Search for your query on [`support.github.com`](https://support.github.com/?q=pages+Modernist+theme), which will also look for similar topics on [`github.community`](https://github.community/search?q=pages+Modernist+theme)
-2. Ask your question of the Jekyll community on [talk.jekyllrb.com](https://talk.jekyllrb.com/)
-3. [Contact GitHub Support](https://github.com/contact?form%5Bsubject%5D=GitHub%20Pages%20theme%20pages-themes/modernist)
+1. 비밀번호를 해제하세요.
+2. <i class="mdi mdi-lock-open-variant-outline"></i> 아이콘을 길게 터치하면 기존 비밀번호를 삭제하고 초기화합니다.
+3. <i class="mdi mdi-key-chain"></i> 아이콘을 눌러서 새로운 비밀번호를 생성하세요.
+
+### Q. 노트 복사후에 원하는 날짜에 바로 붙여넣고 싶습니다.
+
+-   노트 복사후에 원하는 날짜로 이동하여 하단에 나타나는 <i class="mdi mdi-content-paste"></i> 아이콘을 길게 터치하면 붙여넣기가 적용됩니다.
