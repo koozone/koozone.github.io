@@ -62,7 +62,7 @@ title: Support
 1. 노트를 길게 터치하여 복사 메뉴(<i class="mdi mdi-credit-card-multiple-outline
    "></i>)를 선택하세요.
 2. 붙여넣기를 원하는 날짜로 이동하세요.
-3. 복사후 하단에 나타난 <i class="mdi mdi-content-paste"></i> 버튼을 길게 터치하면 붙여넣기가 적용됩니다.
+3. 복사후 하단에 나타난 <i class="mdi mdi-content-paste"></i> 버튼을 길게 터치하면 붙여넣기가 됩니다.
 
 ### Q. 작성된 노트를 다른 날짜로 옮기고 싶어요.
 
