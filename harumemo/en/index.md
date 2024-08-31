@@ -62,6 +62,6 @@ Easily record and manage your personal notes!
 
 ---
 
-### 더 알아보기
+### Quick Tip
 
-자세한 기능 소개와 사용 방법은 [여기](support)에서 확인하세요.
+To learn more about the basic features, please check [here](support)."
