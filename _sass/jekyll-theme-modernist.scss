@@ -371,6 +371,12 @@ footer {
 	header ul {
 		// display: none;
 	}
+	header ul img {
+		display: none;
+	}
+	header ul img.small {
+		display: inline-block;
+	}
 
 	header p.view {
 		display: block;
@@ -382,6 +388,13 @@ footer {
 }
 
 @media print {
+	header ul img {
+		display: inline-block;
+	}
+	header ul img.small {
+		display: none;
+	}
+
 	header p.view a small:before {
 		content: 'at https://github.com/';
 	}
