@@ -371,7 +371,7 @@ footer {
 	header ul {
 		// display: none;
 	}
-	header ul img {
+	header ul img.large {
 		display: none;
 	}
 	header ul img.small {
@@ -388,7 +388,7 @@ footer {
 }
 
 @media print {
-	header ul img {
+	header ul img.large {
 		display: inline-block;
 	}
 	header ul img.small {
