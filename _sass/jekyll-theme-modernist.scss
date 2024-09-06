@@ -97,7 +97,7 @@ header {
 		z-index: 1;
 		right: 20px;
 		top: 20px;
-		height: 38px;
+		// height: 38px;
 		padding: 1px 0;
 		// background: #5198df;
 		// background: linear-gradient(#77b9fb, #3782cd);
@@ -119,10 +119,10 @@ header {
 		}
 
 		li {
-			width: 130px;
+			// width: 130px;
 			float: left;
 			// border-right: 1px solid #3a7cbe;
-			height: 38px;
+			// height: 38px;
 
 			&.single {
 				border: none;
@@ -130,7 +130,7 @@ header {
 		}
 
 		li + li {
-			width: 130px;
+			// width: 130px;
 			margin-left: 5px;
 			// border-left: 1px solid #8bbef3;
 			// border-right: none;
@@ -155,10 +155,14 @@ header {
 				-webkit-font-smoothing: antialiased;
 			}
 		}
+
+		img {
+			height: 100%;
+		}
 	}
 
 	img.logo {
-		width: 46px;
+		height: 46px;
 		margin-right: 10px;
 		border-radius: 10px;
 		border: 1px solid rgba(0, 0, 0, 0.05);
