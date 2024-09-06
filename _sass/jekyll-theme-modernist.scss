@@ -369,9 +369,9 @@ footer {
 	// header ul img.large {
 	// 	display: inline-block;
 	// }
-	header ul img.small {
-		display: none;
-	}
+	// header ul img.small {
+	// 	display: none;
+	// }
 }
 
 @media print, screen and (max-width: 580px) {
@@ -395,6 +395,10 @@ footer {
 }
 
 @media print {
+	header ul img.small {
+		display: none;
+	}
+
 	header p.view a small:before {
 		content: 'at https://github.com/';
 	}
