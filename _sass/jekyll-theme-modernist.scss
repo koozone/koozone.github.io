@@ -161,6 +161,10 @@ header {
 		}
 	}
 
+	img.small {
+		display: none;
+	}
+
 	img.logo {
 		height: 46px;
 		margin-right: 10px;
@@ -381,9 +385,9 @@ footer {
 	header ul img.large {
 		display: none;
 	}
-	// header ul img.small {
-	// 	display: inline-block;
-	// }
+	header ul img.small {
+		display: inline-block;
+	}
 
 	header p.view {
 		display: block;
@@ -395,10 +399,6 @@ footer {
 }
 
 @media print {
-	header ul img.small {
-		display: none;
-	}
-
 	header p.view a small:before {
 		content: 'at https://github.com/';
 	}
