@@ -1,12 +1,3 @@
-"# koozone.github.io"
+## 하루 메모
 
--   root/
-    -   harumemo/
-        -   ko/
-            -   index.md
-            -   faq.md
-        -   en/
-            -   index.md
-            -   faq.md
-    -   index.html
-    -   README.md
+상품 관련 안내
