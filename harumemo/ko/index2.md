@@ -18,7 +18,10 @@ title: Index
 ### 1. **직관적인 메모 관리**
 
 언제든지 메모를 작성하고, 간편하게 편집하여 나만의 하루를 관리할 수 있습니다.
-<img src="../images/ko/index_1.png">
+
+<div style="background-color: #ffffff; padding: 10px; border: 1px solid blue;">
+	<img src="../images/ko/index_1.png">
+</div>
 
 ### 2. **유연한 태그 적용**
 
